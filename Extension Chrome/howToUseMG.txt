@@ -1,0 +1,12 @@
+Bonjour et merci d'avoir télecharger notre extension MentorGoal ! ^^ 
+Nous sommes actuellement à la version 0.2 et on y ajoutera sans doute dans le futur beaucoup de mise à jour; donc rester informé avec le site officiel 
+https://mentorgoal.com/ ;) !! Nous prenons d'ailleurs tout les feedbacks afin d'améliorer l'extension pour vous satisfaire à la même adresse ! N'hésitez
+pas à nous signaler éventuels bugs ou nous donner des retours par rapport à des améliorations que vous aimeriez voir. 
+
+Pour faire fonctionner l'extension aller sur une offre de recherche d'emploi ou visiter un contact LinkedIN; il vous suffira de survoler l'application
+et d'appuyer sur ajouter le contact/la candidature pour la voir s'ajouter sur votre compte MentorGoal ! ^^ 
+(Ps: Pour visiter une offre d'emploi il faut toujours regarder via un nouvel onglet; donc cliquer sur une offre avec un clic de la souris du milieu
+ou bien faites clic droit sur l'offre puis ouvrir dans un nouvel onglet ). Maintenant qu'on vous a tout dit; c'est parti !
+
+Recherche d'emploi qui fonctionne actuellement avec l'extension mentorgoal : LinkedIN, Apec, Indeed, Pole Emploi,
+
